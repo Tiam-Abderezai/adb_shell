@@ -1,9 +1,9 @@
 import os
 from ppadb.client import Client as AdbClient
 
-username = "\\admin@email.com"
+username = "\\user@email.com"
 password = "password"
-clientDevice = "<CLIENT DEVICE>"
+clientDevice = "XXXXXXXXXX"
 clientIP = "127.0.0.1"
 clientPort = 5037
 
